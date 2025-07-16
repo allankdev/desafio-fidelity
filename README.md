@@ -30,3 +30,4 @@ O projeto está organizado da seguinte forma:
 ```bash
 git clone <https://github.com/allankdev/desafio-fidelity.git>
 cd desafio-fidelity
+Link das imagens de teste: <https://drive.google.com/drive/folders/1DTe6WVEl66fsJ4BhpPd-GA4a8kzBEK84?usp=drive_link>
