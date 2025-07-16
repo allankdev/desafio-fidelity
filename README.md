@@ -28,5 +28,5 @@ O projeto está organizado da seguinte forma:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/allankdev/desafio-fidelity.git>
 cd desafio-fidelity
