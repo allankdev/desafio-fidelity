@@ -1,0 +1,6 @@
+DB_HOST=localhost
+DB_NAME=db_teste
+DB_USER=usr_teste
+DB_PASSWORD=sua_senha_super_secreta
+DB_PORT=5432
+EXECUTABLE_PATH="C:/caminho/completo/para/seu/msedgedriver.exe"

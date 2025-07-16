@@ -1,0 +1,5 @@
+selenium
+tqdm
+psycopg2-binary
+python-dotenv
+python-dotenv>=1.0.0
